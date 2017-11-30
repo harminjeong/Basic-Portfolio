@@ -57,3 +57,22 @@ h2 {
 	text-align: justify;
 	line-height: 20px;
 }
+
+#container2 {
+	float: right;
+	width: 270px;
+}
+ #GitHub {
+ 	width: 48px;
+ 	height: 48px;
+ }
+
+ #Linkedin {
+ 	width: 48px;
+ 	height: 48px;
+ }
+
+ #StackOverflow {
+ 	width: 48px;
+ 	height: 48px;
+ }
