@@ -117,10 +117,12 @@ a {
 #bottom {
 	padding-top: 20px;
 	width: 100%;
-	height: 40px;
+	height: 35px;
 	background: silver;
-	clear: both;
-	position: relative;
+	position: fixed;
+	bottom: 0;
+	opacity: .3;
+	
 }
 
  h4 {
